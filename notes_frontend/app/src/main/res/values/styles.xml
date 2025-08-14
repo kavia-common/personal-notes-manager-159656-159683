@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PUBLIC_INTERFACE
+         AppTheme: Light theme without an action bar to allow a custom header. -->
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <!-- Minimal; custom header uses primary color itself -->
+    </style>
+</resources>
