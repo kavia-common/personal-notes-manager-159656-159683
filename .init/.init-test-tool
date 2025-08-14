@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-notes-manager-159656-159683/notes_frontend"
+}
